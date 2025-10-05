@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "jobRole": "tech"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "jobRole": "admin"
+
+    },
+    {
+      "id": 3,
+      "name": "Mike Clarke",
+      "email": "mike.clarke@example.com",
+      "age": 33,
+      "jobRole": "ops"
+
+    },
+    {
+      "id": 2,
+      "name": "Joe Smith",
+      "email": "joe.smith@example.com",
+      "age": 34,
+      "jobRole": "mgt"
+
+    }
+  ]
+}
